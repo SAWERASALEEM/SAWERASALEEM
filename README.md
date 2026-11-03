@@ -1,5 +1,5 @@
 <h1>Hi, I'm Sawera, an <a href="https://linkedin.com/in/SAWERASALEEM">IT Professional</a>!</h1>
-
+<h1>hi im an it professional and currently studying information technology
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
